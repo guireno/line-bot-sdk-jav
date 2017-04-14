@@ -4,11 +4,11 @@
     "keywords": ["chatbot", "line", "java"],
     "env": {
         "LINE_BOT_CHANNEL_TOKEN": {
-            "description": "LINE bot Channel access token from the Channel Console",
+            "description": "jnRBToDNQ7eOBD248MBl6aPHlLjoY3J3LyPpWIMqYDqKajKUUY7l3Su7yArOO3WwqOi7F+uuoJZT2xvX6D5xpfHQVqkk8Uoir9KSXAtR6gbPEVHMrpmLKYmLLkHNqM5mpFtn7maaXMUm5mSXngSu8gdB04t89/1O/w1cDnyilFU=",
             "required":  true
         },
         "LINE_BOT_CHANNEL_SECRET": {
-            "description": "LINE bot Channel secret from the Channel Console",
+            "description": "08627db7ed5696c79b242c184905b6ef",
             "required":  true
         }
     }
